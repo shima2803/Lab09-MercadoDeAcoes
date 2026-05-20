@@ -16,7 +16,7 @@ Construir um dashboard interativo capaz de apresentar, de forma clara e analíti
 
 ## Dashboard
 
-![Dashboard - Mercado de Ações](dashboard.png)
+![Dashboard - Mercado de Ações](Lab%2009%20-%20Mercado%20De%20A%C3%A7%C3%B5es/dashboard.png)
 
 ## Tecnologias Utilizadas
 
