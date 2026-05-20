@@ -12,11 +12,11 @@ Construir um dashboard interativo capaz de apresentar, de forma clara e analíti
 |---------|-----------|
 | `Lab 09 - Mercado de Ações.pbix` | Relatório do Power BI com o dashboard e modelagem de dados |
 | `StockMarket.xlsx` | Base de dados utilizada como fonte do relatório |
-| `Imagem/dashboard.png` | Print do dashboard final |
+| `dashboard.png` | Print do dashboard final |
 
 ## Dashboard
 
-![Dashboard - Mercado de Ações](Imagem/dashboard.png)
+![Dashboard - Mercado de Ações](dashboard.png)
 
 ## Tecnologias Utilizadas
 
